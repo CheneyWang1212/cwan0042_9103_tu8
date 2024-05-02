@@ -25,5 +25,3 @@ As I aim to create a maze, I can build a Mondrian-style labyrinth based on the p
 # Code source
 (https://www.youtube.com/watch?v=kX18GQurDQg)
 
-# Blockquotes
-> This is a blockquote
