@@ -9,8 +9,8 @@ For this assignment, I chose the "Composition 2." by Piet Mondrian as my source 
 # Images
 from webpage
 
-![Figure 1](https://www.nbfox.com/composition-2-3/)
-![Figure 2](https://store.steampowered.com/app/2376760/_99/?l=schinese)
+![Figure1](https://www.nbfox.com/composition-2-3/)
+![Figure2](https://store.steampowered.com/app/2376760/_99/?l=schinese)
 
 # Part 2
 
